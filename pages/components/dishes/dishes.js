@@ -6,24 +6,6 @@ Page({
 		curIndex:0,
 		cart:[],
 		cartTotal:0,
-		navList:[
-			{
-				id:1,
-				name:'热销菜品'
-			},
-			{
-				id:2,
-				name:'热菜'
-			},
-			{
-				id:3,
-				name:'凉菜'
-			},
-			{
-				id:4,
-				name:'套餐'
-			}
-		],
 		dishesList:[
 			[
 				{
